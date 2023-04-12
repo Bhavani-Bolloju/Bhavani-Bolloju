@@ -5,7 +5,7 @@
 👉 I'm a self taught front end web developer. \
 👉 I love learning new skills. \
 👉 In free time i enjoy reading books and solving coding challenges.\
-👉 I'm currently learning react js. \
+👉 I'm currently learning React Native. \
 👉 Ask me about HTML, CSS, Javascript and React js.
 
 #### you can react me:
