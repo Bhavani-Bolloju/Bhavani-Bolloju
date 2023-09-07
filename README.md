@@ -1,4 +1,4 @@
-## 🙋‍♀️ Hello! I'm Bhavani
+## 🙋‍♀️Hello! I'm Bhavani
 
 👋 Self-taught front-end developer passionate about creating intuitive and visually stunning web applications.
 
