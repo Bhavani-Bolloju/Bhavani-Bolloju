@@ -2,11 +2,15 @@
 
 ### 🙋‍♀️ About Me
 
-👉 I'm a self taught front end web developer. \
-👉 I love learning new skills. \
-👉 In free time i enjoy reading books and solving coding challenges.\
-👉 I'm currently learning React Native. \
-👉 Ask me about HTML, CSS, Javascript and React js.
+👋 Self-taught front-end developer passionate about creating intuitive and visually stunning web applications.
+
+💻 Proficient in HTML, CSS, JavaScript, and React.js, with a knack for crafting user-friendly interfaces.
+
+📚 Committed to continuous learning and staying up-to-date with the latest web development trends.
+
+🚀 Let's collaborate and build something amazing together!
+
+#SelfTaught #FrontEndDeveloper #WebDevelopment #ReactJS
 
 #### you can react me:
 
