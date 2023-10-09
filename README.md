@@ -15,7 +15,7 @@
 [LinkedIn](https://www.linkedin.com/in/bhavani-bolloju-9ba34b241)
 </br>
 ### Portfolio: 
-[Personal-Portfolio](https://portfolio-bhavani.web.app/)
+[Personal-Portfolio](https://keen-bavarois-1fe76f.netlify.app/)
 
 
 <!--
