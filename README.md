@@ -8,14 +8,12 @@
 
 🚀 Let's collaborate and build something amazing together!
 
-#SelfTaught #FrontEndDeveloper #WebDevelopment #ReactJS
-
 #### you can react me:
 
 [LinkedIn](https://www.linkedin.com/in/bhavani-bolloju-9ba34b241)
 </br>
 ### Portfolio: 
-[Personal-Portfolio](https://keen-bavarois-1fe76f.netlify.app/)
+[Personal-Portfolio](https://bbhavani.netlify.app/)
 
 
 <!--
